@@ -2,4 +2,4 @@
 
 # Learning Shell
 
-# Learing Bash Shell
+# Learning Bash Shell
